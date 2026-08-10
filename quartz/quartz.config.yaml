@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl:mybrain.fenn.net
+  baseUrl: mybrain.fenn.net
   ignorePatterns:
     - private
     - templates
